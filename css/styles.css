@@ -101,6 +101,9 @@ a {
   text-align: center;
 }
 
+.team-img {
+  background-color: #ffffff;
+}
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -109,7 +112,6 @@ a {
   text-transform: capitalize;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  background-color: #ffffff;
 }
 
 .item-title {
